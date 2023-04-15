@@ -1,0 +1,24 @@
+{
+  "data":[
+    {
+      "case_id":1,
+      "customer_id":818591,
+      "provider":6111,
+      "created_error_code":324,
+      "status":"closed",
+      "ticket_creation_date":"3/14/2019 16:21",
+      "last_modified_date":"3/17/2019 17:55",
+      "product_name":"BLUE"
+    },
+    {
+      "case_id":2,
+      "customer_id":790521,
+      "provider":26241,
+      "created_error_code":0,
+      "status":"closed",
+      "ticket_creation_date":"3/4/2019 16:21",
+      "last_modified_date":"3/5/2019 17:55",
+      "product_name":"BLUE"
+    }
+  ]
+}

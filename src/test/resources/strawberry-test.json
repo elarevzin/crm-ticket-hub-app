@@ -1,0 +1,14 @@
+{
+  "data":[
+    {
+      "case_id":1,
+      "customer_id":818591,
+      "provider":10001121,
+      "created_error_code":101,
+      "status":"closed",
+      "ticket_creation_date":"4/1/2019 16:21",
+      "last_modified_date":"4/2/2019 17:55",
+      "product_name":"RED"
+    }
+  ]
+}

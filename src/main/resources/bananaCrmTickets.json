@@ -1,0 +1,114 @@
+{
+  "data":[
+    {
+      "case_id":1,
+      "customer_id":818591,
+      "provider":6111,
+      "created_error_code":324,
+      "status":"closed",
+      "ticket_creation_date":"3/14/2019 16:21",
+      "last_modified_date":"3/17/2019 17:55",
+      "product_name":"BLUE"
+    },
+    {
+      "case_id":2,
+      "customer_id":790521,
+      "provider":26241,
+      "created_error_code":0,
+      "status":"closed",
+      "ticket_creation_date":"3/4/2019 16:21",
+      "last_modified_date":"3/5/2019 17:55",
+      "product_name":"BLUE"
+    },
+    {
+      "case_id":3,
+      "customer_id":738081,
+      "provider":1211,
+      "created_error_code":101,
+      "status":"closed",
+      "ticket_creation_date":"2/5/2019 16:21",
+      "last_modified_date":"2/10/2019 17:55",
+      "product_name":"BLUE"
+    },
+    {
+      "case_id":4,
+      "customer_id":999,
+      "provider":1211,
+      "created_error_code":101,
+      "status":"open",
+      "ticket_creation_date":"2/5/2020 16:21",
+      "last_modified_date":"2/10/2020 17:55",
+      "product_name":"RED"
+    },
+    {
+      "case_id":5,
+      "customer_id":111,
+      "provider":6111,
+      "created_error_code":324,
+      "status":"open",
+      "ticket_creation_date":"2/2/2020 16:21",
+      "last_modified_date":"2/3/2020 17:55",
+      "product_name":"RED"
+    },
+    {
+      "case_id":6,
+      "customer_id":112,
+      "provider":6112,
+      "created_error_code":325,
+      "status":"open",
+      "ticket_creation_date":"2/2/2020 16:21",
+      "last_modified_date":"2/3/2020 17:55",
+      "product_name":"RED"
+    },
+    {
+      "case_id":7,
+      "customer_id":999,
+      "provider":999,
+      "created_error_code":112,
+      "status":"open",
+      "ticket_creation_date":"2/2/2020 16:21",
+      "last_modified_date":"2/3/2020 17:55",
+      "product_name":"RED"
+    },
+    {
+      "case_id":8,
+      "customer_id":987,
+      "provider":987,
+      "created_error_code":987,
+      "status":"open",
+      "ticket_creation_date":"2/2/2021 16:21",
+      "last_modified_date":"2/3/2021 17:55",
+      "product_name":"RED"
+    },
+    {
+      "case_id":9,
+      "customer_id":1000,
+      "provider":1000,
+      "created_error_code":107,
+      "status":"open",
+      "ticket_creation_date":"2/2/2023 16:21",
+      "last_modified_date":"2/3/2023 17:55",
+      "product_name":"RED"
+    },
+    {
+      "case_id":10,
+      "customer_id":1002,
+      "provider":1002,
+      "created_error_code":1002,
+      "status":"open",
+      "ticket_creation_date":"2/2/2021 16:21",
+      "last_modified_date":"2/3/2021 17:55",
+      "product_name":"RED"
+    },
+    {
+      "case_id":11,
+      "customer_id":1003,
+      "provider":1003,
+      "created_error_code":1003,
+      "status":"open",
+      "ticket_creation_date":"2/2/2023 16:21",
+      "last_modified_date":"2/3/2023 17:55",
+      "product_name":"RED"
+    }
+  ]
+}
