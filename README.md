@@ -26,6 +26,12 @@ Open a web browser and go to http://localhost:8080
 #### Built With
 This project was built with the following tools and frameworks:
 
-Spring Boot
-Spring Data JPA
-Maven
+- Spring Boot
+- Spring Data JPA
+- Maven
+
+#### Assumptions for phase I
+
+- CRM tickets will be queried mostly aggregated by error code and provider name , more on-demand aggregations can be added in the following phases.
+- All users of the application are granted the same viewing permissions.
+- No authentication flows are required at this stage
