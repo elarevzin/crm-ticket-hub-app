@@ -29,8 +29,3 @@ This project was built with the following tools and frameworks:
 Spring Boot
 Spring Data JPA
 Maven
-
-##### Authors
-Ela Revzin (ela.revzin@gmail.com)
-##### License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
