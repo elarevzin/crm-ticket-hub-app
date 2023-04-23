@@ -32,6 +32,6 @@ This project was built with the following tools and frameworks:
 
 #### Assumptions for phase I
 
-- CRM tickets will be queried mostly aggregated by error code and provider name , more on-demand aggregations can be added in the following phases.
+- CRM tickets will be queried based on error code and provider name common denominators, more on-demand aggregations can be added in the following phases per business requirements.
 - All users of the application are granted the same viewing permissions.
 - No authentication flows are required at this stage
