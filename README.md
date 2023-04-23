@@ -1,7 +1,7 @@
-CRM Ticket Hub
+#CRM Ticket Hub
 A web application for fetching and managing customer support tickets (cases).
 
-Getting Started
+#Getting Started
 To run this project locally, you'll need to have Java 11 and Maven installed.
 
 Clone the repository: git clone https://github.com/elarevzin/crm-ticket-hub-app.git
@@ -10,8 +10,8 @@ Build the project: mvn clean install
 Run the project: java -jar target/crm-ticket-hub-app.jar
 Open a web browser and go to http://localhost:8080
 
-Usage
-API:
+#Usage
+##API:
 GET /api/crm-tickets: Returns a list of all CRM tickets, paginated according to the specified page and size parameters. The response is a paginated JSON object that contains information about each CRM ticket.
 
 GET /api/crm-tickets/refresh: Refreshes all CRM tickets and returns the updated list, paginated according to the specified page and size parameters. The response is a paginated JSON object that contains information about each updated CRM ticket.
