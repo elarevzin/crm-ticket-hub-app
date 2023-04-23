@@ -1,5 +1,5 @@
 # CRM Ticket Hub
-A web application for fetching and managing customer support tickets (cases).
+A web application for managing customer support tickets (customer cases).
 
 ## Getting Started
 To run this project locally, you'll need to have Java 11 and Maven installed.
